@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
 <h1 align="center">Hi Everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I'm Alfend, a 2019 Informatics Engineering Student.</h3>
+<h3 align="center">I'm Alfend, a 2019 Informatics Engineering Student, concentrating in Data Science.</h3>
 
 ## 🚀 About Me
 - 🔭 I’m currently studying at [Satya Wacana Christian University](https://www.uksw.edu)
