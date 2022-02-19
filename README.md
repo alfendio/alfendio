@@ -19,9 +19,9 @@
 
 ## 📄 Certifications
 - Oracle Database Design and Programming with SQL
-- Dicoding [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/81P2185NJZOY)
 - Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJLGN36Z3V)
 - Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/2VX327JK4PYQ)
+- Dicoding [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/L4PQ3VYG2PO1)
 
 ## Connect with me
 <p align="left">
