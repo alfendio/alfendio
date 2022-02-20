@@ -23,6 +23,7 @@
 - Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/2VX327JK4PYQ)
 - Dicoding [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/L4PQ3VYG2PO1)
 - Dicoding [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP71D2OOPR0)
+- Dicoding [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/81P22R05YPOY)
 
 ## Connect with me
 <p align="left">
