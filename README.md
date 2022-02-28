@@ -19,6 +19,7 @@
 
 ## 📄 Certifications
 - Oracle Database Design and Programming with SQL
+- Coursera [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/UJK9AHJZBY7R)
 - Coursera [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/DV5RW6FNDKLB)
 - Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJLGN36Z3V)
 - Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/2VX327JK4PYQ)
