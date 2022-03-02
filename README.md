@@ -21,11 +21,12 @@
 - Oracle Database Design and Programming with SQL
 - Coursera [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/UJK9AHJZBY7R)
 - Coursera [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/DV5RW6FNDKLB)
-- Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJLGN36Z3V)
-- Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/2VX327JK4PYQ)
-- Dicoding [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/L4PQ3VYG2PO1)
-- Dicoding [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP71D2OOPR0)
 - Dicoding [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/81P22R05YPOY)
+- Dicoding [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP71D2OOPR0)
+- Dicoding [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/L4PQ3VYG2PO1)
+- Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/2VX327JK4PYQ)
+- Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJLGN36Z3V)
+
 
 ## Connect with me
 <p align="left">
