@@ -21,6 +21,7 @@
 - Oracle Database Design and Programming with SQL
 - Coursera [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/UJK9AHJZBY7R)
 - Coursera [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/DV5RW6FNDKLB)
+- Dicoding [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/1OP8L944LZQK)
 - Dicoding [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/81P22R05YPOY)
 - Dicoding [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://www.dicoding.com/certificates/NVP71D2OOPR0)
 - Dicoding [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/L4PQ3VYG2PO1)
