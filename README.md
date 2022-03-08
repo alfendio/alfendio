@@ -19,6 +19,7 @@
 
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
+- Coursera [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/verify/JPX4PS85KG2T)
 - Coursera [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/4WBBKT3MXDC8)
 - Coursera [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/UJK9AHJZBY7R)
 - Coursera [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/DV5RW6FNDKLB)
