@@ -19,6 +19,8 @@
 
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
+- Coursera [Google IT Automation with Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UG2KWHGDJZYG)
+- Coursera [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/HZU8LZB8HTPZ)
 - Coursera [Configuration Management and the Cloud](https://www.coursera.org/account/accomplishments/verify/9FKCZ3Q84QZP)
 - Coursera [Troubleshooting and Debugging Techniques](https://www.coursera.org/account/accomplishments/verify/JPX4PS85KG2T)
 - Coursera [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/verify/4WBBKT3MXDC8)
