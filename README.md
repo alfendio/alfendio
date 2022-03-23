@@ -17,6 +17,9 @@
 </a>
 </p>
 
+## 📈 Activity Graph
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=alfendio&hide_border=true&theme=redical)
+
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
 - Coursera [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/VTAZTX9SHVMY)
