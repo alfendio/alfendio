@@ -22,6 +22,8 @@
 
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
+- Coursera [Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/FTE6XN43LH5T)
+- Coursera [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/certificate/V8LGAHDAHT6L)
 - Coursera [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/8WTT8ER47DYQ)
 - Coursera [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/VTAZTX9SHVMY)
 - Coursera [Google IT Automation with Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UG2KWHGDJZYG)
