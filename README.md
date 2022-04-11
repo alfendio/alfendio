@@ -22,7 +22,9 @@
 
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
-- Coursera [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/69VA2QMWJKQS)
+- Coursera [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/M2BYNQPVM8ZP)
+- Coursera [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](
+https://www.coursera.org/account/accomplishments/certificate/69VA2QMWJKQS)
 - Coursera [Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/FTE6XN43LH5T)
 - Coursera [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/certificate/V8LGAHDAHT6L)
 - Coursera [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/8WTT8ER47DYQ)
