@@ -22,6 +22,7 @@
 
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
+- Coursera [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/HBCBSWXX8V79)
 - Coursera [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/887LWHKST3LF)
 - Coursera [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/JP8QTTWLVJ5Z)
 - Coursera [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/Q7PUCABCZWCW)
