@@ -22,6 +22,7 @@
 
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
+- Coursera [Device-based Models with TensorFlow Lite](https://www.coursera.org/account/accomplishments/certificate/XENTXFQG37J6)
 - Coursera [Browser-based Models with TensorFlow.js](https://www.coursera.org/account/accomplishments/certificate/BF32FYZR9VAJ)
 - Coursera [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/HBCBSWXX8V79)
 - Coursera [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/887LWHKST3LF)
