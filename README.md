@@ -22,6 +22,8 @@
 
 ## 📄 Certifications
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1N0lRgdnGNpQJrimrmtQPz52eSDSs-sW_/view?usp=sharing)
+- Coursera [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TP628PD7Q6NN)
+- Coursera [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/QPS66YTUGTBH)
 - Coursera [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/account/accomplishments/certificate/388UM9DMRM6T)
 - Coursera [Device-based Models with TensorFlow Lite](https://www.coursera.org/account/accomplishments/certificate/XENTXFQG37J6)
 - Coursera [Browser-based Models with TensorFlow.js](https://www.coursera.org/account/accomplishments/certificate/BF32FYZR9VAJ)
