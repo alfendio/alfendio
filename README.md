@@ -52,7 +52,8 @@
 - Dicoding [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/L4PQ3VYG2PO1)
 - Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/2VX327JK4PYQ)
 - Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJLGN36Z3V)
-
+- HackerRank [SQL Basic](https://www.hackerrank.com/certificates/7ac0308f81cf)
+- HackerRank [Python Basic](https://www.hackerrank.com/certificates/5cb3f531c371)
 
 ## Connect with me
 <p align="left">
