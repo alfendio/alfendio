@@ -4,8 +4,8 @@
 <h3 align="center">I'm Alfend, a 2019 Informatics Engineering Student, concentrating in Data Science.</h3>
 
 ## 🚀 About Me 
-- 🔭 I’m currently studying at [Satya Wacana Christian University](https://www.uksw.edu)
-- 🌱 I’m currently learning about **Machine Learning**🤖 at [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/)
+- 🌱 I’m currently studying at [Satya Wacana Christian University](https://www.uksw.edu)
+- 🤖 I’m a [Bangkit Academy 2022 Graduate led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/) as a **Machine Learning** student 
 - 📫 How to reach me: [My Contact](https://biolinky.co/alfendio)
 
 ## 📊 Stats
