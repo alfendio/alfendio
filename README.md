@@ -57,6 +57,7 @@
 - Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJLGN36Z3V)
 - HackerRank [SQL Basic](https://www.hackerrank.com/certificates/7ac0308f81cf)
 - HackerRank [Python Basic](https://www.hackerrank.com/certificates/5cb3f531c371)
+- DQLab [Introduction to Data Science with R](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSNRJO)
 - DQLab [Introduction to Data Science with Python](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QFTTGS)
 
 ## Connect with me
