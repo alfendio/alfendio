@@ -46,6 +46,7 @@
 - Coursera [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/4WBBKT3MXDC8)
 - Coursera [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/UJK9AHJZBY7R)
 - Coursera [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/DV5RW6FNDKLB)
+- Dicoding [Belajar Dasar Google Cloud](https://www.dicoding.com/certificates/2VX31D1K4ZYQ)
 - Dicoding [Memulai Pemrograman Dengan C](https://www.dicoding.com/certificates/1RXYMR6MKXVM)
 - Dicoding [Pengenalan Data pada Pemrograman (Data 101)](https://www.dicoding.com/certificates/NVP7KL93OZR0)
 - Dicoding [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/certificates/MEPJE654JX3V)
