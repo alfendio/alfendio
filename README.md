@@ -6,7 +6,7 @@
 ## 🚀 About Me 
 - ✅ I'm a [Tensorflow Developer Certified](https://www.credential.net/2a98a982-f154-44ae-9d8c-46f2c05c3978#gs.8u7ye8)
 - 🌱 I’m currently studying at [Satya Wacana Christian University](https://www.uksw.edu)
-- 🤖 I’m a [Bangkit Academy 2022 Graduate led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/) as a **Machine Learning** student 
+- 🤖 I’m a **Machine Learning** Graduate [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/) 
 - 📫 How to reach me: [My Contact](https://biolinky.co/alfendio)
 
 ## 📊 Stats
