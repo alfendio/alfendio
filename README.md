@@ -19,7 +19,14 @@
 </p>
 
 ## 📈 Activity Graph
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=alfendio&hide_border=true&theme=redical)
+<p align="center">
+<a href="https://github.com/alfendio/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/alfendio/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alfendio&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 ## 📄 Certifications
 - Google [TensorFlow Developer Certificate](https://www.credential.net/2a98a982-f154-44ae-9d8c-46f2c05c3978#gs.8u7ye8)
