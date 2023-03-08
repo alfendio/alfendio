@@ -53,6 +53,7 @@
 - Coursera [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/4WBBKT3MXDC8)
 - Coursera [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/certificate/UJK9AHJZBY7R)
 - Coursera [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/DV5RW6FNDKLB)
+- Dicoding [Belajar Dasar Manajemen Proyek](https://www.dicoding.com/certificates/RVZKK2O2NZD5)
 - Dicoding [Machine Learning Terapan](https://www.dicoding.com/certificates/JLX1L4E5JX72)
 - Dicoding [Evaluasi Penguasaan Machine Learning](https://www.dicoding.com/certificates/1OP86Q86VXQK)
 - Dicoding [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/L4PQ4DDMOXO1)
