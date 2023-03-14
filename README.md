@@ -30,7 +30,7 @@
 
 ## 📄 Certifications
 - Google [TensorFlow Developer Certificate](https://www.credential.net/2a98a982-f154-44ae-9d8c-46f2c05c3978#gs.8u7ye8)
-- Oracle [Database Programming with PL/SQL](https://drive.google.com/file/d/1vuVhpXWXIPEJJeOg84gmvOFNZtffpKDZ/view?usp=sharing)
+- Oracle [Database Programming with PL/SQL](https://drive.google.com/file/d/1l7SOTRme5KkPGxsk1SH8rYwc3OgeJ95-/view?usp=sharing)
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1vuVhpXWXIPEJJeOg84gmvOFNZtffpKDZ/view?usp=sharing)
 - Coursera [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TP628PD7Q6NN)
 - Coursera [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/QPS66YTUGTBH)
