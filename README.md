@@ -32,6 +32,7 @@
 - Google [TensorFlow Developer Certificate](https://www.credential.net/2a98a982-f154-44ae-9d8c-46f2c05c3978#gs.8u7ye8)
 - Oracle [Database Programming with PL/SQL](https://drive.google.com/file/d/1l7SOTRme5KkPGxsk1SH8rYwc3OgeJ95-/view?usp=sharing)
 - Oracle [Database Design and Programming with SQL](https://drive.google.com/file/d/1vuVhpXWXIPEJJeOg84gmvOFNZtffpKDZ/view?usp=sharing)
+- ASEAN Foundation [ASEAN Data Science Explorers 2023](https://drive.google.com/file/d/1afmdKzsVZocPQgh81F1-9DlRuxInF2wo/view?usp=sharing)
 - Coursera [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TP628PD7Q6NN)
 - Coursera [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/QPS66YTUGTBH)
 - Coursera [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/account/accomplishments/certificate/388UM9DMRM6T)
@@ -75,8 +76,11 @@
 - Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/MEPJLGN36Z3V)
 - HackerRank [SQL Basic](https://www.hackerrank.com/certificates/7ac0308f81cf)
 - HackerRank [Python Basic](https://www.hackerrank.com/certificates/5cb3f531c371)
+- DQLab [Python for Data Professional Beginner - Part 1](https://academy.dqlab.id/certificate/pdf/DQLABINTP1ENFMPC)
 - DQLab [Introduction to Data Science with R](https://academy.dqlab.id/certificate/pdf/DQLABBGINRUSNRJO)
 - DQLab [Introduction to Data Science with Python](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QFTTGS)
+- Rakamin Academy [Kickstart Data Science Journey](https://drive.google.com/file/d/1dW5lql46LI53ZZ97Txybtn0KLTwliWBt/view?usp=sharing)
+- Rakamin Academy [Kickstart UI/UX Design Journey](https://drive.google.com/file/d/1h0m-c3d3cGTPGrO8sr02crRCYZ-ucJTr/view?usp=sharing)
 
 ## Connect with me
 <p align="left">
