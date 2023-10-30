@@ -85,6 +85,7 @@
 - DQLab [Introduction to Data Science with Python](https://academy.dqlab.id/certificate/pdf/DQLABINTP1QFTTGS)
 - Rakamin Academy [Kickstart Data Science Journey](https://drive.google.com/file/d/1dW5lql46LI53ZZ97Txybtn0KLTwliWBt/view?usp=sharing)
 - Rakamin Academy [Kickstart UI/UX Design Journey](https://drive.google.com/file/d/1h0m-c3d3cGTPGrO8sr02crRCYZ-ucJTr/view?usp=sharing)
+- RevoU [Intro to Data Analytics](https://certificates.revou.co/alfendio-faudisyah-certificate-completion-damc23.pdf)
 
 ## Connect with me
 <p align="left">
