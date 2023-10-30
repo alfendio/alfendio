@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
-<h1 align="center">Hi Everyone!</h1>
+<h1 align="center">Hi Everyone! I'm Alfend</h1>
 
 ## 🚀 About Me 
 - Bachelor of Informatics Engineering, Data Science | Universitas Kristen Satya Wacana 
