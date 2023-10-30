@@ -5,7 +5,7 @@
 ## 🚀 About Me 
 - Bachelor of Informatics Engineering, Data Science | Universitas Kristen Satya Wacana 
 - Google Certified TensorFlow Developer 
-- Machine Learning | Bangkit led by Google, GoTo, & Traveloka
+- Machine Learning | Bangkit Academy led by Google, GoTo, & Traveloka
 - Machine Learning Engineer | Kedaireka Matching Fund UKSW 2022 collaboration with Badan Riset dan Inovasi Nasional, PT Semesta Eltrindo Pura, and PT Artha Puncak Semesta Indonesia.
 - Digital Forensic | Digital Talent Scholarship - Kominfo
 
