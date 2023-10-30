@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://linkedinheaders.com/wp-content/uploads/2018/02/journal-keyboard-header.jpg" height="175px"/></a>
 
 <h1 align="center">Hi Everyone!</h1>
-<h3 align="center">I'm Alfend, a 2019 Informatics Engineering Student, concentrating in Data Science.</h3>
 
 ## 🚀 About Me 
-- ✅ I'm a [Tensorflow Developer Certified](https://www.credential.net/2a98a982-f154-44ae-9d8c-46f2c05c3978#gs.8u7ye8)
-- 🌱 I’m currently studying at [Satya Wacana Christian University](https://www.uksw.edu)
-- 🤖 I’m a **Machine Learning** Graduate at [Bangkit Academy led by Google, GoTo, & Traveloka](https://grow.google/intl/id_id/bangkit/) 
-- 📫 How to reach me: [My Contact](https://biolinky.co/alfendio)
+- Bachelor of Informatics Engineering, Data Science | Universitas Kristen Satya Wacana 
+- Google Certified TensorFlow Developer 
+- Machine Learning | Bangkit led by Google, GoTo, & Traveloka
+- Machine Learning Engineer | Kedaireka Matching Fund UKSW 2022 collaboration with Badan Riset dan Inovasi Nasional, PT Semesta Eltrindo Pura, and PT Artha Puncak Semesta Indonesia.
+- Digital Forensic | Digital Talent Scholarship - Kominfo
 
 ## 📊 Stats
 
