@@ -3,7 +3,7 @@
 <h1 align="center">Hi Everyone! I'm Alfend</h1>
 
 ## 🚀 About Me 
-- Bachelor of Informatics Engineering, Data Science | Universitas Kristen Satya Wacana 
+- Bachelor of Informatics Engineering (Data Science) | Universitas Kristen Satya Wacana 
 - Google Certified TensorFlow Developer 
 - Machine Learning | Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
 - Machine Learning Engineer | Kedaireka Matching Fund UKSW 2022 collaboration with Badan Riset dan Inovasi Nasional, PT Semesta Eltrindo Pura, and PT Artha Puncak Semesta Indonesia.
