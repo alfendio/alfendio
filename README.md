@@ -3,6 +3,7 @@
 <h1 align="center">Hi Everyone! I'm Alfend</h1>
 
 ## 🚀 About Me 
+- Operations Development Specialist (Business Division) | PT Global Loyalty Indonesia (Alfagift)
 - Bachelor of Informatics Engineering (Data Science) | Universitas Kristen Satya Wacana 
 - Google Certified TensorFlow Developer
 - Data Analytics | Digital Talent Scholarship - Kominfo
