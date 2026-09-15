@@ -21,8 +21,8 @@
 </p>
 
 ## 📈 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alfendio&theme=dracula&hide_border=true" height="160em" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=alfendio&theme=dracula&hide_border=true" width="85%" />
 </p>
 
 <!--
