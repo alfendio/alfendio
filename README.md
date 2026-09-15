@@ -20,6 +20,11 @@
 </a>
 </p>
 
+## 📈 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alfendio&theme=dracula&hide_border=true" width="100%" />
+</p>
+
 ## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/alfendio/github-readme-activity-graph#gh-light-mode-only">
