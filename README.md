@@ -37,6 +37,11 @@
 </p>
 -->
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alfendio/alfendio/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
 ## 📄 Certifications
 - Google [TensorFlow Developer Certificate](https://www.credential.net/2a98a982-f154-44ae-9d8c-46f2c05c3978#gs.8u7ye8)
 - Oracle [Database Programming with PL/SQL](https://drive.google.com/file/d/1l7SOTRme5KkPGxsk1SH8rYwc3OgeJ95-/view?usp=sharing)
