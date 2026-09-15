@@ -22,9 +22,10 @@
 
 ## 📈 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alfendio&theme=dracula&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=alfendio&theme=dracula&hide_border=true" height="160em" />
 </p>
 
+<!--
 ## 📈 Activity Graph
 <p align="center">
 <a href="https://github.com/alfendio/github-readme-activity-graph#gh-light-mode-only">
@@ -34,6 +35,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfendio&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
+-->
 
 ## 📄 Certifications
 - Google [TensorFlow Developer Certificate](https://www.credential.net/2a98a982-f154-44ae-9d8c-46f2c05c3978#gs.8u7ye8)
