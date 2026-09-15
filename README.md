@@ -13,7 +13,7 @@
 
 ## 📊 Stats
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/alfendio">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfendio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfendio&layout=compact&langs_count=8&theme=algolia"/>
@@ -21,8 +21,8 @@
 </p>
 
 ## 📈 Streak Stats
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=alfendio&theme=dracula&hide_border=true" width="78%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alfendio&theme=dracula&hide_border=true" width="90%" />
 </p>
 
 <!--
